@@ -7,17 +7,14 @@ Adam and I use different languages (I use Python and he uses R), so we wanted to
 An article will be published soon that includes those visualizations, as well as the code.
 
 # Table of Contents
-Introduction & Business Problem
+* Introduction & Business Problem
 
-Data
+* Data
 
-Methodology
+* Methodology
 
-Analysis
+* Analysis
 
-Results
+* Results
 
-Conclusion
-
-
-(This project was a collaboration between myself and Adam McKinnon.)
+* Conclusion
