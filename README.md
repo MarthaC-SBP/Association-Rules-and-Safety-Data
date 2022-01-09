@@ -8,9 +8,16 @@ An article will be published soon that includes those visualizations, as well as
 
 # Table of Contents
 Introduction & Business Problem
+
 Data
+
 Methodology
+
 Analysis
+
 Results
+
 Conclusion
+
+
 (This project was a collaboration between myself and Adam McKinnon.)
